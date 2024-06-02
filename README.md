@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **TS, React, Rust...**
-
 - ⚡ Fun fact **I use arch btw**
 
 <p align="left">
