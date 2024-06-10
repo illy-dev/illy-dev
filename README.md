@@ -14,4 +14,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=illy-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h4 align="center">✨[illy.is-a.dev](https://illy.is-a.dev)✨</h4>
+<h4 align="center"><a href="https://illy.is-a.dev">✨illy.is-a.dev✨</a></h4>
