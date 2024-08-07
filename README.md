@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm illy</h1>
 <h3 align="center">( ͡° ͜ʖ ͡°)</h3>
 
-- 🔭 I’m currently working on **my Website and a Tauri App**
-
-- ⚡ Fun fact **I use arch btw**
-
 <p align="left">
 </p>
 
